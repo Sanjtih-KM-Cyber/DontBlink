@@ -1,0 +1,5 @@
+{
+  "name": "BlinkEye AI",
+  "description": "A high-fidelity 'Don't Blink' AI Challenge app.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
